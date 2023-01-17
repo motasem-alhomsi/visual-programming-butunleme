@@ -1,0 +1,186 @@
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\sport.exe.config
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\sport.exe
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\sport.pdb
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.csprojAssemblyReference.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.Properties.Resources.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.csproj.GenerateResource.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.csproj.CoreCompileInputs.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.exe
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.pdb
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.form1.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.csproj.CopyComplete
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.futbol.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.futbol_takımı_kıyafetleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.Basketbol.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.Basketbol_Kıyafetleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.Buz_Hokeyi.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.Vücut_Geliştirme.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.çeşitli_spor_malzemeleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.Futbol_gömlekleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.satın_alma_sayfası_1.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.Form2.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.Form3.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.Form4.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\Google.Protobuf.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\MySql.Data.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\System.Buffers.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\System.Memory.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\ZstdNet.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\Google.Protobuf.pdb
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\Google.Protobuf.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\MySql.Data.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\System.Buffers.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\System.Memory.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\sport\sport\obj\Debug\sport.hesabim.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\sport.exe.config
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\sport.exe
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\sport.pdb
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\Google.Protobuf.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\MySql.Data.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\System.Buffers.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\System.Memory.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\ZstdNet.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\Google.Protobuf.pdb
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\Google.Protobuf.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\MySql.Data.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\System.Buffers.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\System.Memory.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.csprojAssemblyReference.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.Basketbol_Kıyafetleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.Basketbol.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.Buz_Hokeyi.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.form1.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.Form2.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.Form3.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.Form4.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.Futbol_gömlekleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.Futbol_Takımı_Kıyafetleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.futbol.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.hesabim.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.Properties.Resources.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.satın_alma_sayfası_1.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.Vücut_Geliştirme.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.çeşitli_spor_malzemeleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.csproj.GenerateResource.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.csproj.CoreCompileInputs.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.csproj.CopyComplete
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.exe
+C:\Users\mtsma\OneDrive\سطح المكتب\C#\form\gorsel final\sport\obj\Debug\sport.pdb
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\sport.exe.config
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\sport.exe
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\sport.pdb
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\Google.Protobuf.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\MySql.Data.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\System.Buffers.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\System.Memory.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\ZstdNet.dll
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\Google.Protobuf.pdb
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\Google.Protobuf.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\MySql.Data.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\System.Buffers.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\System.Memory.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.csprojAssemblyReference.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.admin.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.Basketbol_Kıyafetleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.Basketbol.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.Buz_Hokeyi.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.form1.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.Form2.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.Form3.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.Form4.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.Futbol_gömlekleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.Futbol_Takımı_Kıyafetleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.futbol.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.hesabim.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.Properties.Resources.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.satın_alma_sayfası_1.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.Vücut_Geliştirme.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.çeşitli_spor_malzemeleri.resources
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.csproj.GenerateResource.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.csproj.CoreCompileInputs.cache
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.csproj.CopyComplete
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.exe
+C:\Users\mtsma\OneDrive\سطح المكتب\gorsel final\sport\obj\Debug\sport.pdb
+E:\C# PROJ\gorsel final\sport\bin\Debug\sport.exe.config
+E:\C# PROJ\gorsel final\sport\bin\Debug\sport.exe
+E:\C# PROJ\gorsel final\sport\bin\Debug\sport.pdb
+E:\C# PROJ\gorsel final\sport\bin\Debug\BouncyCastle.Crypto.dll
+E:\C# PROJ\gorsel final\sport\bin\Debug\Google.Protobuf.dll
+E:\C# PROJ\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.dll
+E:\C# PROJ\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\C# PROJ\gorsel final\sport\bin\Debug\K4os.Hash.xxHash.dll
+E:\C# PROJ\gorsel final\sport\bin\Debug\MySql.Data.dll
+E:\C# PROJ\gorsel final\sport\bin\Debug\System.Buffers.dll
+E:\C# PROJ\gorsel final\sport\bin\Debug\System.Memory.dll
+E:\C# PROJ\gorsel final\sport\bin\Debug\System.Numerics.Vectors.dll
+E:\C# PROJ\gorsel final\sport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C# PROJ\gorsel final\sport\bin\Debug\ZstdNet.dll
+E:\C# PROJ\gorsel final\sport\bin\Debug\BouncyCastle.Crypto.xml
+E:\C# PROJ\gorsel final\sport\bin\Debug\Google.Protobuf.pdb
+E:\C# PROJ\gorsel final\sport\bin\Debug\Google.Protobuf.xml
+E:\C# PROJ\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.xml
+E:\C# PROJ\gorsel final\sport\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\C# PROJ\gorsel final\sport\bin\Debug\K4os.Hash.xxHash.xml
+E:\C# PROJ\gorsel final\sport\bin\Debug\MySql.Data.xml
+E:\C# PROJ\gorsel final\sport\bin\Debug\System.Buffers.xml
+E:\C# PROJ\gorsel final\sport\bin\Debug\System.Memory.xml
+E:\C# PROJ\gorsel final\sport\bin\Debug\System.Numerics.Vectors.xml
+E:\C# PROJ\gorsel final\sport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.csprojAssemblyReference.cache
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.admin.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.Basketbol_Kıyafetleri.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.Basketbol.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.Buz_Hokeyi.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.form1.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.Form2.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.Form3.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.Form4.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.Futbol_gömlekleri.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.Futbol_Takımı_Kıyafetleri.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.futbol.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.hesabim.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.Properties.Resources.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.satın_alma_sayfası_1.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.Vücut_Geliştirme.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.çeşitli_spor_malzemeleri.resources
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.csproj.GenerateResource.cache
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.csproj.CoreCompileInputs.cache
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.csproj.CopyComplete
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.exe
+E:\C# PROJ\gorsel final\sport\obj\Debug\sport.pdb
